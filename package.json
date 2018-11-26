@@ -1,0 +1,22 @@
+{
+  "name": "observables-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenoitAverty/observables-from-scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenoitAverty/observables-from-scratch/issues"
+  },
+  "homepage": "https://github.com/BenoitAverty/observables-from-scratch#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
